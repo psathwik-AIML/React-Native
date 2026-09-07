@@ -1,6 +1,6 @@
 import { registerRootComponent } from "expo";
 
-import App from "./All Codes/Coding-5/Project";
+import App from "./All Codes/Coding-6/MultilineProp";
 
 // registerRootComponent calls AppRegistry.registerComponent('main', () => App);
 // It also ensures that whether you load the app in Expo Go or in a native build,
