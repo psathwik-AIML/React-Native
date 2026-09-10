@@ -1,6 +1,6 @@
 import { registerRootComponent } from "expo";
 
-import App from "./All Codes/Coding-7/PostRequest";
+import App from "./All Codes/Coding-8/TabNavigation";
 
 // registerRootComponent calls AppRegistry.registerComponent('main', () => App);
 // It also ensures that whether you load the app in Expo Go or in a native build,
